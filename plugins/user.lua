@@ -21,4 +21,8 @@ return {
     config = function() require("package-info").setup {} end,
     event = "VeryLazy",
   },
+  {
+    "Mofiqul/vscode.nvim",
+    config = function() require("vscode").setup {} end,
+  },
 }
