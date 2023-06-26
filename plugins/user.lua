@@ -25,4 +25,8 @@ return {
     "Mofiqul/vscode.nvim",
     config = function() require("vscode").setup {} end,
   },
+  {
+    "f-person/git-blame.nvim",
+    event = "VeryLazy",
+  },
 }

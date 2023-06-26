@@ -5,10 +5,10 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { import = "astrocommunity.colorscheme.nightfox" },
+  -- { import = "astrocommunity.colorscheme.nightfox" },
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.tokyonight" },
-  { import = "astrocommunity.colorscheme.gruvbox" },
+  -- { import = "astrocommunity.colorscheme.tokyonight" },
+  -- { import = "astrocommunity.colorscheme.gruvbox" },
   { import = "astrocommunity.colorscheme.everforest" },
   -- { import = "astrocommunity.indent.indent-blankline-nvim" },
   {
