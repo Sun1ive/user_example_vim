@@ -25,6 +25,10 @@ return {
     "Mofiqul/vscode.nvim",
     config = function() require("vscode").setup {} end,
   },
+  {
+    "mg979/vim-visual-multi",
+    event = "VeryLazy",
+  },
   -- {
   --   "f-person/git-blame.nvim",
   --   event = "VeryLazy",
